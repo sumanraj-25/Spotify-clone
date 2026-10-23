@@ -72,6 +72,9 @@ The main purpose of this project is to practice HTML and CSS by recreating a fam
 ## 👨‍💻 Author
 
 **Suman Raj**
+![Home Page](home.png)
+![Music Player](player.png)
+![Playlist](playlist.png)
 
 GitHub: [@sumanraj-25](https://github.com/sumanraj-25)
 
